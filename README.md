@@ -37,7 +37,7 @@ Note: Only the 'tqdm' library need to be install
 * tqdm: progress bar
 
 ## Time spent to create:
-About 4 hour for 3 days.
+About 4 hours for 3 days.
 Total: 12 hours
 
 ## Difficulties faced in the challenge:
