@@ -21,6 +21,7 @@ $ python client.py
 * 'Port' and 'TimeOut' is defined when you inicialize the server
 
 ## Libraries used in this project:
+Note: Only the 'tqdm' library need to be install
 * socket: to create a socket and connect the client to the server
 * threading: to run mulitple clients in the server
 * datetime: to set a timestamp
