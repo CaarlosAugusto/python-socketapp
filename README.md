@@ -18,7 +18,7 @@ $ python client.py
 ```
 ## Configuring the server:
 * Open the config.py file to config set the maximum size file to receive.
-* Other configs like 'Port' and 'TimeOut' is defined when you inicialize the server
+* 'Port' and 'TimeOut' is defined when you inicialize the server
 
 ## Libraries used in this project:
 * socket: to create a socket and connect the client to the server
