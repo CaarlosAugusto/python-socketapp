@@ -3,7 +3,7 @@ import config
 import os
 import tqdm
 
-HEADER, PORT, SERVER, ADDR, FORMAT, SEPARATOR, BUFFER_SIZE = config.config()
+PORT, SERVER, ADDR, FORMAT, SEPARATOR, BUFFER_SIZE = config.config()
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client.connect(ADDR)
