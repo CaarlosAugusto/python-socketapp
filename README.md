@@ -16,6 +16,10 @@ $ python server.py
 ```
 $ python client.py
 ```
+* To send a file from client enter with the path/filename when requested:
+```
+$ Type the filename to send: client_files/filename.xlsx
+```
 ## Configuring the server:
 * Open the config.py file to set the maximum file size to receive in the BUFFER_SIZE variable.
 * 'Port' and 'TimeOut' is defined when you inicialize the server.
