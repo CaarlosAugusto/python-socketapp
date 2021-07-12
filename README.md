@@ -20,7 +20,7 @@ $ python client.py
 ```
 $ Choose the PORT: 5050
 ```
-* To send a file from client enter with the path/filename when requested:
+* To send a file from client, enter with the path/filename when requested:
 ```
 $ Type the filename to send: client_files/filename.xlsx
 ```
