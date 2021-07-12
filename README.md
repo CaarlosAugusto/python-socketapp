@@ -38,7 +38,7 @@ Note: Only the 'tqdm' library need to be install
 
 ## Time spent to create:
 About 4 hours for 3 days.
-Total: 12 hours
+Total: 16 hours
 
 ## Difficulties faced in the challenge:
 * Learn how sockets works.
