@@ -16,6 +16,10 @@ $ python server.py
 ```
 $ python client.py
 ```
+* In both prompts, put the same PORT to connect SERVER and CLIENT like the example below:
+```
+$ Choose the PORT: 5050
+```
 * To send a file from client enter with the path/filename when requested:
 ```
 $ Type the filename to send: client_files/filename.xlsx
