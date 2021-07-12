@@ -2,7 +2,7 @@ import socket
 
 def config():
     PORT = int(input("Choose the PORT: "))
-    SERVER = socket.gethostbyname(socket.gethostname())
+    SERVER = socket.gethostbyname(socket.gethostname()) #Set the host, in this case we are using local host
     ADDR = (SERVER, PORT)
     FORMAT = 'utf-8'
     SEPARATOR = '<SEPARATOR>'
