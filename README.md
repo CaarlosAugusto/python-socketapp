@@ -17,7 +17,7 @@ $ python server.py
 $ python client.py
 ```
 ## Configuring the server:
-* Open the config.py file to config set the maximum size file to receive in the BUFFER_SIZE variable.
+* Open the config.py file to set the maximum size file to receive in the BUFFER_SIZE variable.
 * 'Port' and 'TimeOut' is defined when you inicialize the server.
 
 ## Libraries used in this project:
