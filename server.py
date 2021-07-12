@@ -5,7 +5,7 @@ import os
 import datetime
 import time
 
-HEADER, PORT, SERVER, ADDR, FORMAT, SEPARATOR, BUFFER_SIZE = config.config()
+PORT, SERVER, ADDR, FORMAT, SEPARATOR, BUFFER_SIZE = config.config()
 
 TIMEOUT = int(input("Set a max timeout in seconds: "))
 
